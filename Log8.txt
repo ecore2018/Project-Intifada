@@ -1,0 +1,491 @@
+
+ 
+[WIN_LIST_2 ]  (Thu Oct 17 09:27:03 2013
+) 
+  
+
+ 
+[INTIFADA_STUB | bY LETHALSOFT .INC ]  (Thu Oct 17 09:27:03 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:27:06 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Thu Oct 17 09:27:16 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:27:19 2013
+) 
+  
+
+ 
+[Replace ]  (Thu Oct 17 09:27:27 2013
+) 
+  
+iploadu/download
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:27:52 2013
+) 
+  
+
+ 
+[Find ]  (Thu Oct 17 09:27:54 2013
+) 
+  
+
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:27:55 2013
+) 
+  
+
+ 
+[Replace ]  (Thu Oct 17 09:28:06 2013
+) 
+  
+fIle
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:28:14 2013
+) 
+  
+
+ 
+[Confirm replace ]  (Thu Oct 17 09:28:14 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:28:24 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:28:24 2013
+) 
+  
+
+ 
+[Confirm replace ]  (Thu Oct 17 09:28:24 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:28:26 2013
+) 
+  
+
+ 
+[Confirm replace ]  (Thu Oct 17 09:28:26 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:28:28 2013
+) 
+  
+
+ 
+[Result ]  (Thu Oct 17 09:28:28 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:28:30 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:28:32 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:28:35 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:28:38 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:28:43 2013
+) 
+  
+
+ 
+[INTIFADA_RAT | Screen Capture ]  (Thu Oct 17 09:29:15 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:29:18 2013
+) 
+  
+
+ 
+[INTIFADA_RAT | Screen Capture ]  (Thu Oct 17 09:29:27 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:29:32 2013
+) 
+  
+
+ 
+[INTIFADA_RAT | File Manager  ]  (Thu Oct 17 09:29:37 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:29:48 2013
+) 
+  
+
+ 
+[Download Complete ]  (Thu Oct 17 09:29:48 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:29:51 2013
+) 
+  
+
+ 
+[INTIFADA_RAT | File Manager  ]  (Thu Oct 17 09:29:53 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:29:58 2013
+) 
+  
+
+ 
+[Download Complete ]  (Thu Oct 17 09:29:58 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:30:00 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:30:03 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:31:02 2013
+) 
+  
+
+ 
+[Server Edit ]  (Thu Oct 17 09:31:18 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:31:18 2013
+) 
+  
+
+ 
+[Server Edit ]  (Thu Oct 17 09:31:19 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:32:09 2013
+) 
+  
+
+ 
+[Server Edit ]  (Thu Oct 17 09:32:26 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:32:53 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:23 2013
+) 
+  
+
+ 
+[Jump List ]  (Thu Oct 17 09:35:27 2013
+) 
+  
+
+ 
+[Release ]  (Thu Oct 17 09:35:29 2013
+) 
+  
+
+ 
+[bin ]  (Thu Oct 17 09:35:31 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Thu Oct 17 09:35:32 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[C:\Users\Physics(SWEP2011)\Desktop\C++\INTIFADA_RAT\main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[main.cpp - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[C:\Users\Physics(SWEP2011)\Desktop\C++\INTIFADA_RAT\usb_spread.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[usb_spread.cpp - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[C:\Users\Physics(SWEP2011)\Desktop\C++\INTIFADA_RAT\spread.h [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[spread.h - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[C:\Users\Physics(SWEP2011)\Desktop\C++\INTIFADA_RAT\acl.h [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[acl.h - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[C:\Users\Physics(SWEP2011)\Desktop\C++\INTIFADA_RAT\hook.h [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[hook.h - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[hook.h (INTIFADA_RAT) - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:39 2013
+) 
+  
+
+ 
+[hook.h [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:40 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:42 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:35:50 2013
+) 
+  
+0000000000""00000
+ 
+[*main.cpp (INTIFADA_RAT CLIENT) - Code::Blocks 10.05 ]  (Thu Oct 17 09:38:56 2013
+) 
+  
+        cOpyfile
+ 
+[*main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:42:09 2013
+) 
+  
+
+ 
+[Replace ]  (Thu Oct 17 09:42:14 2013
+) 
+  
+copyfile
+ 
+[*main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:42:21 2013
+) 
+  
+
+ 
+[Confirm replace ]  (Thu Oct 17 09:42:21 2013
+) 
+  
+
+ 
+[Result ]  (Thu Oct 17 09:42:28 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Thu Oct 17 09:42:29 2013
+) 
+  
+
+ 
+[*main.cpp (INTIFADA_RAT CLIENT) - Code::Blocks 10.05 ]  (Thu Oct 17 09:44:19 2013
+) 
+  
+(nAme,sTTub
+ 
+[Server Edit ]  (Thu Oct 17 09:46:36 2013
+) 
+  
+
+ 
+[Windows Explorer ]  (Thu Oct 17 09:47:20 2013
+) 
+  
+
+ 
+[DarkComet ]  (Thu Oct 17 09:47:20 2013
+) 
+  
+
+ 
+[Spoof extensions ]  (Thu Oct 17 09:47:26 2013
+) 
+  
+
+ 
+[Extension spoofer - By DarkCoderSc ]  (Thu Oct 17 09:47:28 2013
+) 
+  
+
+ 
+[Open ]  (Thu Oct 17 09:47:34 2013
+) 
+  
+
+ 
+[Spoof extensions ]  (Thu Oct 17 09:47:39 2013
+) 
+  
+
+ 
+[Open ]  (Thu Oct 17 09:47:41 2013
+) 
+  
+
+ 
+[Extension spoofer - By DarkCoderSc ]  (Thu Oct 17 09:48:36 2013
+) 
+  
+gggggarryan
+ 
+[About ]  (Thu Oct 17 09:48:59 2013
+) 
+  
+
+ 
+[Spoof extensions ]  (Thu Oct 17 09:49:51 2013
+) 
+  
+
+ 
+[About ]  (Thu Oct 17 09:49:53 2013
+) 
+  
+
+ 
+[Extension spoofer - By DarkCoderSc ]  (Thu Oct 17 09:49:55 2013
+) 
+  
+
+ 
+[Windows Task Manager ]  (Thu Oct 17 09:50:34 2013
+) 
+  
+
+ 
+[Program Manager ]  (Thu Oct 17 09:51:13 2013
+) 
+  
+
+ 
+[Server Edit ]  (Thu Oct 17 09:51:17 2013
+) 
+  
+
+ 
+[Windows Task Manager ]  (Thu Oct 17 09:51:20 2013
+) 
+  
+
+ 
+[Untitled - Notepad ]  (Thu Oct 17 09:51:28 2013
+) 
+  
+
+ 
+[Aryan?3pm.exe - Notepad ]  (Thu Oct 17 09:51:31 2013
+) 
+  
+
+ 
+[Find ]  (Thu Oct 17 09:51:36 2013
+) 
+  
+mp3
+ 
+[Notepad ]  (Thu Oct 17 09:51:48 2013
+) 
+  
+
+ 
+[Find ]  (Thu Oct 17 09:51:50 2013
+) 
+  
+
+ 
+[Aryan?3pm.exe - Notepad ]  (Thu Oct 17 09:51:55 2013
+) 
+  
+
+ 
+[Windows Task Manager ]  (Thu Oct 17 09:52:23 2013
+) 
+  
+
+ 
+[*main.cpp (INTIFADA_RAT CLIENT) - Code::Blocks 10.05 ]  (Thu Oct 17 09:52:45 2013
+) 
+  
+nAme,faLS;
+ 
+[INTIFADA_STUB | bY LETHALSOFT .INC ]  (Thu Oct 17 09:53:57 2013
+) 
+  
