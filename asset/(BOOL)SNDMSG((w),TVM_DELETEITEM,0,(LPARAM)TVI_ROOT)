@@ -1,0 +1,480 @@
+//#include <windows.h>
+
+///////////////Dialog IDs/////////////////
+
+#define DLG_MAIN                   01
+#define Keylog_Dlg                 02
+#define File_Dlg                   03
+#define Task_Dlg                   04
+#define STUB_EDIT_Dlg              05
+#define About_Dlg                  06
+#define WEB_SHOT_Dlg               07
+#define ID_CRPT_DLG               455
+#define IDD_SETTINGS              456
+#define NEW_FOLDER_DLG            457
+#define DLOAD_STAT_DLG            458
+#define SHOT_STAT_DLG             459
+
+
+
+//////////////Control IDs/////////////////
+
+#define ID_MAIN_MENU               10
+#define IDC_LIST                   20
+#define IDC_TAB1                   30
+#define IDC_LIST2                  40
+#define IDC_BTN_LISTEN            101
+#define IDC_BTN_QUIT              102
+#define IDC_RTRV_BUT              103
+#define IDC_DISP_LOG              104
+#define ID_MAIN_STATUS            105
+#define ID_EDIT_PORTLISTENER      106
+#define ID_EDIT_STUB              107
+#define ID_TOOLS_TASKMANAGER      108
+#define ID_TOOLS_KEYLOGGER        109
+#define ID_TOOLS_FILEMANAGER      110
+#define IDB_FAIL                  111
+#define ID_HELP_ABOUT             112
+#define ID_OPTION_EXIT            113
+#define IDC_SCREEN_CAP            114
+#define IDC_LIST3                 115
+#define IDC_TREE1                 116
+#define IDB_TREE                  117
+#define IDI_ICON                  118
+#define FILE_MAIN_TAB             119
+#define TASK_MAIN_TAB             120
+#define IDC_LIST5                 121
+#define IDC_LIST4                 122
+#define IDC_FILE_STATUS           123
+#define IDC_TASK_STATUS           124
+#define ID_TASK_MENU              125
+#define IDC_KILL_TASK             126
+#define IDC_REFRESH_TASK          127
+#define ID_FILE_MENU              128
+#define IDC_EXECUTE_FILE          129
+#define IDC_DOWNLOAD_FILE         130
+#define IDC_DELETE_FILE           131
+#define ID_INSTALLED_MENU         132
+#define IDC_IEXECUTE_FILE         133
+#define IDC_IDOWNLOAD_FILE        134
+#define IDC_IDELETE_FILE          135
+#define IDC_LIST6                 136
+#define IDC_STATIC                137
+#define ID_SEARCH_EDIT            138
+#define IDC_FSEARCH_BUTTON        139
+#define IDC_FSEARCH_GROUP         140
+#define ID_SEARCH_EDIT2           141
+#define IDC_STATIC2               142
+#define ID_MMENU_OPTION_LISTEN    143
+#define ID_MMENU_MANUAL           144
+#define ID_MMENU_ABOUT            145
+#define IDC_MainTAB               146
+#define ID_MMENU_EXIT             147
+#define IDC_SETTING1_GRP          148
+#define ID_MAINPORT_EDIT          149
+#define ID_FILEPORT_EDIT          150
+#define IDC_SETTING2_GRP          151
+#define ID_NO_IP_EDIT1            152
+#define ID_NO_IP_EDIT2            153
+#define IDC_STATIC3               154
+#define IDC_STATIC4               155
+#define IDC_STATIC5               156
+#define ID_WEBCAM_CAP             157
+#define SCR_SHOT_Dlg              158
+#define IDC_SCRSHT_STATUS         159
+#define IDB_SHOT                  160
+#define IDB_BALL                  161
+#define IDC_SEP1                  162
+#define ID_MMENU_OPTION_STOP      163
+#define IDC_SYS_SHTDWN            164
+#define IDC_SYS_LGOFF             165
+#define IDC_SYS_MOFF              166
+#define IDC_SYS_MON               167
+#define IDC_EDIT_NAME             168
+#define IDC_EDIT_PROCESS          169
+#define IDC_EDIT_FILEPORT         170
+#define IDC_EDIT_MAINPORT         171
+#define IDC_EDIT_IP               172
+#define IDR_EXE                   173
+#define IDC_BUILD                 174
+#define IDC_EDITSTAT1             175
+#define IDC_EDITSTAT2             176
+#define IDC_EDITSTAT3             177
+#define IDC_EDITSTAT4             178
+#define IDD_SERVEREDIT            179
+#define IDB_ABT                   180
+#define IDC_LIST7                 181
+#define IDC_WEBSHT_STATUS         182
+#define IDI_GREEN                 183
+#define IDI_IMG                   184
+#define IDI_DOC                   185
+#define IDI_MEDIA                 186
+#define IDI_WEB                   187
+#define IDI_ZIP                   188
+#define IDI_TXT                   189
+#define IDI_UNK                   190
+#define IDI_PDF                   191
+#define IDB_TREE2                 192
+#define IDB_TREE3                 193
+#define IDB_TREE4                 194
+#define IDB_TREE5                 195
+#define IDC_SYSLINK1              196
+#define IDC_FILE                  197
+#define IDC_BROWSE                198
+#define IDB_PAUSE                 199
+#define IDC_BACKUP                200
+#define IDC_ADDICON               201
+#define IDI_EXE                   202
+#define IDC_ICONIMG               203
+#define IDC_BUILD                 204
+#define IDR_STUB                  205
+#define SS_BITMAP                 206
+#define IDI_PROC                  207
+#define IDB_EXE2                  208
+#define IDB_VID                   209
+#define IDI_TREE6                 210
+#define IDC_LIST8                 220
+#define ID_MMENU_OPTION_SETTING   221
+#define IDD_KEYLOG                222
+#define IDC_KEYS                  223
+#define IDC_KEYS2                 224
+#define IDC_ID                    225
+#define IDC_SET_OK_BUTTON         226
+#define IDI_VID2                  227
+#define IDC_UPLOAD_FILE           228
+#define IDC_NEW_FOLDER            229
+#define IDC_RENAME_FILE           230
+#define IDC_COPY_FILE             231
+#define IDC_PASTE_FILE            232
+#define IDC_FOLDER_NAME           233
+#define IDC_OK_FOLDER_NAME        234
+#define IDC_PROGRESS              235
+#define IDC_CANCEL_DLOAD          236
+#define IDC_DLPROGRESS            237
+#define IDC_DLSTAT                238
+#define IDC_PAUSE_DLOAD           239
+#define IDC_RESUME_DLOAD          240
+#define IDC_DLSTAT_STATUS         241
+#define ID_UPLDLPORT_EDIT         242
+#define IDB_PASS                  243
+#define IDC_CANCEL_SHOT           244
+#define IDC_SHOTPROGRESS          246
+#define IDC_DLSHOT_STATUS         247
+#define IDC_LIST9                 248
+#define IDC_DLSTATIC              249
+#define IDC_EDIT_STUBNAME         250
+#define IDC_EDIT_STUBIMG          251
+#define IDC_ADDICON               252
+#define IDC_BROWSE_IMG            253
+
+
+//////////WinSock IDs////////////////////
+
+#define WM_UTILITY_SOCKET         998
+#define WM_FILE_SOCKET            999
+#define WM_SOCKET                 1000
+#define COMPUTER_INFO             1001
+#define REQ_DRIVES                1002
+#define SEND_DRIVES               1006
+#define SEND_LOGS                 1007
+#define TEST_CONNECTION           1008
+#define CONFIRM_ONLINE            1009
+#define LOGS_SENT                 1010
+#define SEND_FILES                1011
+#define REQ_FILES                 1012
+#define REQ_TASKS                 1013
+#define SEND_TASKS                1014
+#define REQ_INSTALLS              1015
+#define SEND_INSTALLS             1016
+#define CAP_WEBCAM                1017
+#define SEND_WEBCAM               1018
+#define REQ_WINDOWS               1019
+#define SEND_WINDOWS              1020
+#define KILL_PROCESS              1021
+#define EXECUTE_FILE              1022
+#define DOWNLOAD_FILE             1023
+#define DELETE_FILE               1024
+#define IEXECUTE_FILE             1025
+#define IDOWNLOAD_FILE            1026
+#define IDELETE_FILE              1027
+#define REQ_FILE_SEARCH           1028
+#define SEND_FILE_SEARCH          1029
+#define REQ_SEARCH_DIR            1030
+#define SEND_SEARCH_DIR           1031
+#define CAP_SCREEN                1032
+#define TURN_OFF_PC               1033
+#define TURN_ON_PC                1034
+#define SHUT_DOWN_PC              1035
+#define LOG_OFF_PC                1036
+#define SEND_FOLDERS              1037
+#define SET_CAP_SCREEN            1038
+#define SET_CAP_CAM               1039
+#define END_CAP_SCREEN            1040
+#define END_CAP_CAM               1041
+#define SET_KEYLOG                1042
+#define END_KEYLOG                1043
+#define SET_FDLOAD                1044
+#define FDLOAD                    1045
+#define END_FDLOAD                1046
+#define SET_FUPLOAD               1047
+#define FUPLOAD                   1048
+#define END_FUPLOAD               1049
+#define NEW_FOLDER                1050
+#define RENAME_FILE               1051
+#define COPYnPASTE_FILE           1052
+#define INIT_DLFSOCK              1053
+#define INIT_FSOCK                1054
+#define CANCEL_DLOAD              1055
+#define PAUSE_DLOAD               1056
+#define RESUME_DLOAD              1057
+#define CANCEL_SHOT               1058
+#define PAUSE_SHOT                1059
+#define RESUME_SHOT               1060
+#define REQ_SRVCS                 1061
+#define SEND_SRVCS                1062
+#define DLOAD_SUSPENDED           1063
+#define DLOAD_TERMINATED          1064
+#define DLOAD_RESUMED             1065
+
+////////////////////////////DEFINES/////////////////////////////
+
+#define ListView_SetExtendedListViewStyle(w,s) (DWORD)SNDMSG((w),LVM_SETEXTENDEDLISTVIEWSTYLE,0,(s))
+#define LVM_SETEXTENDEDLISTVIEWSTYLE (LVM_FIRST+54)
+#define TVM_SETIMAGELIST	(TV_FIRST+9)
+#define LVS_EX_FULLROWSELECT 32
+#define LVS_EX_GRIDLINES 1
+#define LVS_EX_CHECKBOXES 4
+
+#define MAX_LINKID_TEXT          48
+#define L_MAX_URL_LENGTH	     2084
+#define   MAX_LEN                4444
+
+
+typedef struct tagLITEM {
+	UINT mask;
+	int iLink;
+	UINT state;
+	UINT stateMask;
+	WCHAR szID[MAX_LINKID_TEXT];
+	/*WCHAR*/char szUrl[L_MAX_URL_LENGTH];
+} LITEM,*PLITEM;
+
+typedef struct tagLHITTESTINFO {
+	POINT pt;
+	LITEM item;
+} LHITTESTINFO,*PLHITTESTINFO;
+
+typedef struct tagNMLINK {
+	NMHDR hdr;
+	LITEM item;
+} NMLINK,*PNMLINK;
+
+
+
+struct PACKETHEAD
+{
+    DWORD PacketType;
+    //USER INFO//
+    char IP_add[12];
+    char cpt_name[100];
+    char OS_Ver[50];
+    char User[100];
+    char Admin[20];
+    char Processor_specs[100];
+    char RAM_Size[15];
+    char Scr_res[15];
+    char Time[20];
+    //FILE SYS//
+    char Drives[50];
+    char Folder[50];
+    char File[50];
+    char FileSize[30];
+    char Installs[100];
+    char Path[MAX_PATH];
+    char FoundFile[MAX_PATH];
+    int DriveType;
+    //char FoundDir[MAX_PATH];
+    //TASK MNGR//
+    char Procs[100];
+	char PID[100];
+	char Threads[100];
+	char ParentPID[100];
+	char PRIORITY[100];
+	char Windows[265];
+	//SRVC MNGR//
+	char Srvcname[70];
+	char SrvcDispname[70];
+	char SrvcStatus[20];
+	char SrvcStartup[20];
+
+};
+
+
+
+////LV_Control////
+    typedef struct _LV_ITEM {
+    UINT   mask;        // attributes of this data structure
+    int    iItem;       // index of the item to which this structure refers
+    int    iSubItem;    // index of the subitem to which this structure refers
+    UINT   state;       // Specifies the current state of the item
+    UINT   stateMask;   // Specifies the bits of the state member that are valid.
+    LPTSTR  pszText;    // Pointer to a null-terminated string
+                        // that contains the item text
+    int    cchTextMax;  // Size of the buffer pointed to by the pszText member
+    int    iImage;      // index of the list view item's icon
+    LPARAM lParam;      // 32-bit value to associate with item
+    } _LV_ITEM;
+
+    typedef struct _LV_COLUMN {
+    UINT mask;       // which members of this structure contain valid information
+    int fmt;         // alignment of the column heading and the subitem text
+    int cx;          // Specifies the width, in pixels, of the column.
+    LPTSTR pszText;  // Pointer to a null-terminated string
+                     // that contains the column heading
+    int cchTextMax;  // Specifies the size, in characters, of the buffer
+    int iSubItem;    // index of subitem
+    } _LV_COLUMN;
+
+
+typedef struct {
+    UINT    mask;        // attributes of this data structure
+    LPTSTR  pszText;    // Pointer to a null-terminated string
+    //int     iImage;
+    //int     iSelectedImage;
+    int     cchTextMax;
+    int     hItem;
+} _TV_ITEM;
+
+
+typedef struct {
+   WORD x,y;  // dimensions
+   WORD l;    // bytes per scan-line (32-bit allignment)
+   BYTE *b;   // bits of bitmap,3 bytes/pixel, BGR
+} tWorkBMP;  // 24-bit working bitmap
+
+
+struct mystruct {
+    HBITMAP Screen;
+    int ID;
+    int ID3;
+    int ID4;
+} ;
+
+
+struct EVENTPACKET
+{
+    DWORD PacketType;
+    char TaskName[100];
+    char FileName[100];
+    char Ipath[MAX_PATH];
+    char Dpath[MAX_PATH];
+    char SearchFile[MAX_PATH];
+    //char SearchExtention[MAX_PATH];
+    char SearchDir[MAX_PATH];
+    char Fcopy[MAX_PATH];
+    char Fpaste[MAX_PATH];
+};
+
+
+
+
+
+
+struct FTRANSFER
+{
+
+    DWORD PacketType;
+    //CAPTURES//
+    char Scr_Cap[5041];
+    char Cam_Cap[2041];
+    char Keylog[3041];
+    unsigned long PicLen;
+    unsigned long ActPicLen;
+    char PicSize[50];
+
+};
+
+
+
+
+struct FILEDOWNLOAD
+{
+    DWORD PacketType;
+    char FDload[5041];
+    unsigned long DLFLen;
+    char DLFSize[50];
+};
+
+
+struct FILEUPLOAD
+{
+    DWORD PacketType;
+    char FUload[5041];
+    char ULFname[MAX_LEN];
+    char ULDestPath[MAX_PATH];
+    unsigned long ULFLen;
+    char ULFSize[50];
+};
+
+
+typedef struct _ICONDIRENTRY {
+  BYTE bWidth;
+  BYTE bHeight;
+  BYTE bColorCount;
+  BYTE bReserved;
+  WORD wPlanes;
+  WORD wBitCount;
+  DWORD dwBytesInRes;
+  DWORD dwImageOffset;
+} ICONDIRENTRY,
+ * LPICONDIRENTRY;
+
+typedef struct _ICONDIR {
+  WORD idReserved;
+  WORD idType;
+  WORD idCount;
+  ICONDIRENTRY idEntries[1];
+} ICONDIR,
+ * LPICONDIR;
+
+#pragma pack(push)
+#pragma pack(2)
+typedef struct _GRPICONDIRENTRY {
+  BYTE bWidth;
+  BYTE bHeight;
+  BYTE bColorCount;
+  BYTE bReserved;
+  WORD wPlanes;
+  WORD wBitCount;
+  DWORD dwBytesInRes;
+  WORD nID;
+} GRPICONDIRENTRY,
+ * LPGRPICONDIRENTRY;
+#pragma pack(pop)
+
+#pragma pack(push)
+#pragma pack(2)
+typedef struct _GRPICONDIR {
+  WORD idReserved;
+  WORD idType;
+  WORD idCount;
+  GRPICONDIRENTRY idEntries[1];
+} GRPICONDIR,
+ * LPGRPICONDIR;
+#pragma pack(pop)
+
+
+
+
+
+
+// Next default values for new objects
+//
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        346
+#define _APS_NEXT_COMMAND_VALUE         40106
+#define _APS_NEXT_CONTROL_VALUE         1156
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
