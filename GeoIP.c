@@ -225,7 +225,7 @@ const char GeoIP_country_continent[255][3] = {
         "NA","NA","AS","OC","OC","OC","AS","AF","EU","AF",
         "AF","EU","AF","--","--","--","EU","EU","EU","EU",
         "NA","NA","NA", "AF"
-};
+};  
 
 static const char * get_db_description(int dbtype){
     const char * ptr;
