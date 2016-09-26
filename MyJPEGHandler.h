@@ -40,7 +40,7 @@ HBITMAP LoadJPEG(char* FileName)
    if (!p){  s->Release(); GlobalFree(hG); return NULL; }
    s->Release();
    GlobalFree(hG);
-
+  
    HBITMAP hB = 0;
    p->get_Handle((unsigned int*)&hB);
 
