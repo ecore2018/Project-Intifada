@@ -140,7 +140,7 @@ const char GeoIP_country_code3[255][4] = { "--","AP","EU","AND","ARE","AFG","ATG
 	"VGB","VIR","VNM","VUT","WLF","WSM","YEM","MYT","SRB","ZAF",
 	"ZMB","MNE","ZWE","A1","A2","O1","ALA","GGY","IMN","JEY",
   "BLM","MAF", "BES", "SSD" };
-
+   
 const char * GeoIP_utf8_country_name[255] = {"N/A","Asia/Pacific Region","Europe","Andorra","United Arab Emirates","Afghanistan","Antigua and Barbuda","Anguilla","Albania","Armenia","Cura" "\xc3\xa7" "ao",
 	"Angola","Antarctica","Argentina","American Samoa","Austria","Australia","Aruba","Azerbaijan","Bosnia and Herzegovina","Barbados",
 	"Bangladesh","Belgium","Burkina Faso","Bulgaria","Bahrain","Burundi","Benin","Bermuda","Brunei Darussalam","Bolivia",
