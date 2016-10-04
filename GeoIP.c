@@ -19,7 +19,7 @@
  */
 
 #include "GeoIP.h"
-
+   
 static geoipv6_t IPV6_NULL;
 
 #if !defined(_WIN32) 
