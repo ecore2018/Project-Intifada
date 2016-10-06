@@ -1043,7 +1043,7 @@ int UpdateStats()
         SetWindowText(GetDlgItem(hwndStat, IDC_INFFILESTATIC),INFEXE);
         ShowWindow(GetDlgItem(hwndStat, IDC_INFFILESTATIC),SW_SHOW);
 
-        dlfile = atoi(DlFilesDB);
+        dlfile = atoi(DlFilesDB);  
 
         sprintf(DLFILE,"%s: %d","Total files downloaded",dlfile);
         SetWindowText(GetDlgItem(hwndStat, IDC_DLFILESTATIC),DLFILE);
