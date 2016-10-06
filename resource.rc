@@ -706,7 +706,7 @@ BEGIN
     LTEXT           "Total size: ",IDC_UPLLFILESIZESTATIC,165,20,120,8
     LTEXT           "Total files Downloaded: ",IDC_DLFILESTATIC,165,45,120,8
     LTEXT           "Total size: ",IDC_DLFILESIZESTATIC,165,55,120,8
-
+   
     //CONTROL         "Reset",IDC_RESET_DATASTAT,"Button",0x10010000,150,52,50,15,WS_EX_CLIENTEDGE
     GROUPBOX        "Connections",IDC_STATIC,2,70,130,45
     LTEXT           "Active connections: ",IDC_ACCONSTATIC,25,80,90,8
@@ -876,7 +876,7 @@ BEGIN
             VALUE "FileDescription", "Project_Intifada Beta\0"
             VALUE "FileVersion", "1, 0, 0, 0\0"
             VALUE "InternalName", "Project_Intifada \0"
-            VALUE "LegalCopyright", "Copyright © 2013\0"
+            VALUE "LegalCopyright", "Copyright Â© 2013\0"
             VALUE "LegalTrademarks", "\0"
             VALUE "OriginalFilename", "Project_Intifada.exe\0"
             VALUE "PrivateBuild", "\0"
