@@ -17,7 +17,7 @@ extern "C" {
 #else
 # define DLLIMPORT __declspec (dllimport)
 #endif
-
+                                  
 
 /************************* SkinWin functions *************************/
 int DLLIMPORT SkinWin_Start(const char *strSkinFile);
