@@ -27,7 +27,7 @@ int DLLIMPORT SkinWin_Start(const char *strSkinFile);
 int DLLIMPORT SkinWin_LoadSkin(const char *strSkinFile);
 	/* Load a new skin file.
 	   If the function succeeds, the return value is 1. If the function fails, the return value is 0. */
-
+  
 int DLLIMPORT SkinWin_SkinWindow(HWND hWnd, bool SkinIt);
     /* Set the skin mode for a window.
             bool SkinIt = true      the window is to skin
