@@ -6,7 +6,7 @@
 
 //IDI_CANCELABT   ICON    DISCARDABLE    "Cancel2.ico"
 //IDI_EXE         ICON    DISCARDABLE    "exe.ico"
-IDB_EXE         BITMAP  DISCARDABLE    "udlg.bmp"
+IDB_EXE         BITMAP  DISCARDABLE    "udlg.bmp"       
 //IDI_ICON        ICON    DISCARDABLE    "Mlogo.ico"
 IDB_TREE        BITMAP  DISCARDABLE    "DRIVE.BMP"
 IDB_TREE2       BITMAP  DISCARDABLE    "CDDRIVE.BMP"
