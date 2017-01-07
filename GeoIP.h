@@ -73,7 +73,7 @@ typedef struct GeoIPTag {
         off_t dyn_seg_size; /* currently only used by the cityconfidence database */
         unsigned int ext_flags; /* bit 0 teredo support enabled */
 } GeoIP;
-
+  
 typedef struct GeoIPLookup {
   int netmask;
 } GeoIPLookup;
