@@ -71,7 +71,7 @@ static geoipv6_t IPV6_NULL;
 		if (err != Z_OK) { \
 				fprintf(stderr, "%s error: %d\n", msg, err); \
 				exit(1); \
-		} \
+	       	} \
 }
 
 #ifndef HAVE_PREAD
